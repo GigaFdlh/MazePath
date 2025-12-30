@@ -95,7 +95,7 @@ lib/
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/yourusername/mazepath.git](https://github.com/yourusername/mazepath.git)
+    git clone [https://github.com/GigaFdlh/MazePath.git](https://github.com/GigaFdlh/MazePath.git)
     cd mazepath
     ```
 
@@ -133,5 +133,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 <p align="center">
-  Built with ❤️ by <strong>Your Name</strong>
+  Built with ❤️ by <strong>Giga Kurnia F</strong>
 </p>
