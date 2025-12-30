@@ -9,10 +9,6 @@
 
 Designed to demonstrate concepts of Graph Theory and Artificial Intelligence pathfinding.
 
-<p align="center">
-  <img src="assets/screenshots/Home.jpeg" alt="Homepages">
-</p>
-
 ## ✨ Key Features
 
 ### 🧠 Algorithms Implemented
