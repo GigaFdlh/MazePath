@@ -10,7 +10,7 @@
 Designed to demonstrate concepts of Graph Theory and Artificial Intelligence pathfinding.
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=Place+Your+Screenshot+Here" alt="Placeholder">
+  <img src="assets/screenshots/Home.jpeg" alt="Homepages">
 </p>
 
 ## ✨ Key Features
@@ -38,9 +38,9 @@ Includes the "Big 4" pathfinding algorithms for comprehensive comparison:
 
 ## 📱 Screenshots
 
-| Splash | Algorithm Home | Mud & Weights | Recursive Maze | Drawer |
+| Splash | Algorithm Selection | Mud & Weights | Recursive Maze | Drawer |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="assets/screenshots/splash.jpeg" width="200" /> | <img src="assets/screenshots/home.jpeg" width="200" /> | <img src="assets/screenshots/simple.jpeg" width="200" /> | <img src="assets/screenshots/recursive.jpeg" width="200" /> | <img src="assets/screenshots/drawer.jpeg" width="200" /> |
+| <img src="assets/screenshots/splash.jpeg" width="200" /> | <img src="assets/screenshots/select.jpeg" width="200" /> | <img src="assets/screenshots/simple.jpeg" width="200" /> | <img src="assets/screenshots/recursive.jpeg" width="200" /> | <img src="assets/screenshots/drawer.jpeg" width="200" /> |
 
 ## 🛠️ Tech Stack
 
