@@ -95,7 +95,7 @@ lib/
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/GigaFdlh/MazePath.git](https://github.com/GigaFdlh/MazePath.git)
+    git clone https://github.com/GigaFdlh/MazePath.git
     cd mazepath
     ```
 
